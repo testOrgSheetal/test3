@@ -2,3 +2,5 @@ file1 data git session V1
 
 
 file1 data with basic git commands
+
+git init
